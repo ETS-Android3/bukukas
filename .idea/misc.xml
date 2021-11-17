@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/drawable/bg_form.xml" value="0.2703125" />
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/drawable/password.xml" value="0.2703125" />
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/drawable/username.xml" value="0.2703125" />
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/layout/activity_change.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/layout/fragment_cash_flow.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/layout/fragment_pemasukan.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/android-cashbook/app/src/main/res/layout/fragment_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/cashbook-bnsp/app/src/main/res/layout/activity_change.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/cashbook-bnsp/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/cashbook-bnsp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/cashbook-bnsp/app/src/main/res/layout/fragment_cash_flow.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/cashbook-bnsp/app/src/main/res/layout/fragment_pemasukan.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/cashbook-bnsp/app/src/main/res/layout/fragment_pengeluaran.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/cashbook-bnsp/app/src/main/res/layout/fragment_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/College/BNSP/cashbook-bnsp/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/layout/activity_change.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/layout/fragment_cash_flow.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/layout/fragment_pemasukan.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/layout/fragment_pengeluaran.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/layout/fragment_setting.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/layout/list_item.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Asus/Downloads/Compressed/android-bukukas-master/android-bukukas-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/Fakhryan/AndroidStudioProjects/Cashbook/app/src/main/res/drawable/ic_photo_background.xml" value="0.21875" />
+        <entry key="..\:/Users/Fakhryan/AndroidStudioProjects/Cashbook/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Fakhryan/AndroidStudioProjects/Cashbook/app/src/main/res/layout/fragment_setting.xml" value="0.5" />
+        <entry key="..\:/Users/Fakhryan/AndroidStudioProjects/Cashbook/app/src/main/res/mipmap-anydpi-v26/ic_photo.xml" value="0.21875" />
+        <entry key="..\:/Users/Fakhryan/AndroidStudioProjects/Cashbook/app/src/main/res/mipmap-anydpi-v26/ic_photo_round.xml" value="0.37864583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

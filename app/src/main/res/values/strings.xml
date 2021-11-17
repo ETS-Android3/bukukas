@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCashBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="author">
+        Aplikasi ini dibuat oleh: \nNama: Faisal Wafa \nNIM : 1741720028 \nTanggal: 17 Nov 2021
+    </string>
+</resources>

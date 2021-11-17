@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_username.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\username.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_money.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_money.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_inmenu.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable-v24\\inmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_in.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable-v24\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_outmenu.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable-v24\\outmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_password.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_password.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_password.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_username.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\username.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_calendar.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_calendar.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_password.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_password.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_change.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\layout\\activity_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_money.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_username.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\username.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_photo.jpg.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable-v24\\photo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-hdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_money.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_username.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\username.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_form.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable\\bg_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_pengeluaran.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\layout\\fragment_pengeluaran.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-hdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_username.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\username.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_username.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\username.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_calendar.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_calendar.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_out.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable-v24\\out.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_username.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\username.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_setting.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable-v24\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_money.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\money.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_password.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_password.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon.jpg.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable-v24\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_pemasukan.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\layout\\fragment_pemasukan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_money.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_calendar.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_calendar.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\font_didact_gothic.ttf.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\font\\didact_gothic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_cash_flow.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\layout\\fragment_cash_flow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_money.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_calendar.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_cash.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\drawable-v24\\cash.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Downloads\\Compressed\\android-bukukas-master\\android-bukukas-master\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_foreground.png"
+    }
+]
